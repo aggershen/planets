@@ -1,1 +1,4 @@
 Mars is a lovely red planet inhabited by robots.
+
+There are also robots circling Mars.
+
